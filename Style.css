@@ -1,0 +1,52 @@
+* {
+   margin: 0;
+   padding: 0;  
+}
+
+body {
+   background: #f2f2f2;
+   font-family: 'Poppins', sans-serif;
+}
+
+header {
+    background: #442cce;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+}
+
+main {
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background: #ffebcd;
+}
+
+.Initial_Info{
+    padding: 20px;
+    height: 200px;
+    box-shadow: 0 1px 5px rgb(0, 0, 0);
+}
+
+.card{
+    padding: 20px;
+    height: 150px;
+    box-shadow: 0 1px 5px rgb(0, 0, 0);
+}
+
+.conclusion{
+    padding: 20px;
+    height: 200px;
+    box-shadow: 0 1px 5px rgb(0, 0, 0);
+}
+
+footer{
+    background: #442cce;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+}
